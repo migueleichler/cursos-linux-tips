@@ -1,1 +1,12 @@
-
+## Linux
+- O Linux é um kernel que foi criado em 1991 por Linus Torvalds.
+- Desde o seu início o Linux foi concebido para ser um kernel modularizado.
+- O Linux foi construído em torno do trabalho colaborativo.
+- O Linux possui diversas distribuições que são constituídas do kernel Linux e de ferramentas externas.
+- A disponibilização e utilazação dessas distribuições são possíveis graças às licenças.
+- As licenças mais restritivas são as GPL que estabelece exigências como a disponibilização código fonte, a proibição da venda do software, entre outras medidas.
+- As ferramentas GNU auxiliam os sitemas Linux a operar.
+- Muitos utilitários utilizados no sistema Linux são provenientes do sistema operacional BSD.
+- O sistema Linux é o resultado do trabalho de diferentes entidades e comunidades: GNU, BSD, Apache, MIT, ...
+- Os dispositivos móveis Android utilizam o kernel Linux.
+- O Linux está presente em diversos tipos de sistemas como os de ônibus espaciais.
