@@ -5,7 +5,7 @@
 - O Linux possui diversas distribuições que são constituídas do kernel Linux e de ferramentas externas.
 - A disponibilização e utilização dessas distribuições são possíveis graças às licenças.
 - As licenças mais restritivas são as GPL que estabelecem exigências como a disponibilização código fonte, a proibição da venda do software, entre outras medidas.
-- As ferramentas GNU auxiliam os sitemas Linux a operar.
+- As ferramentas GNU auxiliam os sistemas Linux a operar.
 - Muitos utilitários utilizados no sistema Linux são provenientes do sistema operacional BSD.
 - O sistema Linux é o resultado do trabalho de diferentes entidades e comunidades: GNU, BSD, Apache, MIT, ...
 - Os dispositivos móveis Android utilizam o kernel Linux.
